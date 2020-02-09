@@ -1,2 +1,2 @@
-# Three-Variable-Linear-Equation
-Three Variable Linear Equation solution using python3
+# Three-Variable-Linear-Inequation
+Three Variable Linear Inequation solution using python3
